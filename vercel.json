@@ -1,5 +1,5 @@
 {
   "buildCommand": "npm install --include=dev && npm run build",
-  "outputDirectory": "dist/client",
+  "outputDirectory": "dist",
   "framework": null
 }
