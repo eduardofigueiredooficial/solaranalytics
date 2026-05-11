@@ -1,6 +1,6 @@
 {
   "buildCommand": "npm install --include=dev && npm run build",
-  "outputDirectory": ".output/public",
+  "outputDirectory": ".output",
   "framework": null,
   "installCommand": "npm install"
 }
